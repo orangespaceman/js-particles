@@ -2,4 +2,4 @@
 
 ## Example
 
- - [http://thegingerbloke.github.io/js-particles](http://thegingerbloke.github.io/js-particles)
+ - [http://orangespaceman.github.io/js-particles](http://orangespaceman.github.io/js-particles)
